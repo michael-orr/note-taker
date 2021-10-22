@@ -4,7 +4,7 @@
   [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   
   <div align="center">
-  <img src="./assets/images/readmelogo.png" alt="Logo" width="80" height="80">
+  <img src="./Assets/readmelogo.png" alt="Logo" width="80" height="80">
 </div>
   <h1>Note Taker</h2>
 
